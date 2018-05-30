@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BME280
+D TPH Sensor
+$ENDCMP
+#
+#End Doc Library

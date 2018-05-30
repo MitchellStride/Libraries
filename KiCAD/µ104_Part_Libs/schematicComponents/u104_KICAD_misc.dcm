@@ -1,0 +1,46 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 3021/3023_BUCKPUCK
+D LED DRIVER
+$ENDCMP
+#
+$CMP BTS50302
+D IC PWR SW HI-SIDE 2CH Load Switch
+K Load Switch
+$ENDCMP
+#
+$CMP Ferrite
+D Ferrite Bead
+K FERRITE
+$ENDCMP
+#
+$CMP LTST-C19HE1WT
+D Common Anode RGB LED
+K RGB LED
+$ENDCMP
+#
+$CMP M24M01-R
+D 1MB EEPROM w/ I2C interface
+K EEPROM
+$ENDCMP
+#
+$CMP NPN_DMC20402
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+$CMP Q_NPN_BCE
+D Transistor NPN (general)
+K npn transistor
+$ENDCMP
+#
+$CMP SN74AHC14PWR
+D inverting buffer with Schmitt trigger.
+F 74xx/74ahc_ahct1g14.pdf
+$ENDCMP
+#
+$CMP SolderJumper
+K Solder Jumper SolderJumper SJ
+$ENDCMP
+#
+#End Doc Library

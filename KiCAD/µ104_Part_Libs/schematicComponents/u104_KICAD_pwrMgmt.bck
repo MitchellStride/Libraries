@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP REG71050
+D REG710xx Buck-Boost Charge Pump with up to 60-mA Output Current
+K Boost Charge Pump
+$ENDCMP
+#
+$CMP TPS61222DCK
+D TPS6122x Low Input Voltage, 0.7V Boost Converter With 5.5μA Quiescent Current
+K Boost
+$ENDCMP
+#
+#End Doc Library

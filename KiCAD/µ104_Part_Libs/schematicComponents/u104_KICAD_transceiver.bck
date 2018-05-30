@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD7306
+D +5V RS-232/RS-422 Transceiver
+$ENDCMP
+#
+#End Doc Library
