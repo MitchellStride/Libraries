@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MCP3021
-D ADC - 1 channel, I2C
-K ADC
-$ENDCMP
-#
-#End Doc Library
